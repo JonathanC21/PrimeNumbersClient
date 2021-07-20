@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.valencia","c":"Client","l":"Client()","url":"%3Cinit%3E()"},{"p":"com.valencia","c":"Client","l":"formatText(String)","url":"formatText(java.lang.String)"},{"p":"com.valencia","c":"Client","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"com.valencia","c":"Client","l":"start(Stage)","url":"start(javafx.stage.Stage)"}]
